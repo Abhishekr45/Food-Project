@@ -1,0 +1,796 @@
+.main {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    /* margin-top: 50px;
+     */
+    margin-top: 40px;
+    border-bottom: 2px solid rgb(209, 205, 205);
+}
+
+.head2 {
+    margin: auto;
+}
+
+.main1 {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 40px;
+}
+
+/* .head4{
+    gap:50px ;
+} */
+
+nav ul li {
+    display: inline;
+    margin: auto;
+    padding: 25px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav ul li a:hover {
+    color: orangered;
+}
+
+.first {
+    color: orangered;
+}
+
+.btn1 {
+    /* padding: 8px; */
+    color: white;
+    border-radius: 4px;
+    border: 2px solid orangered;
+    background-color: orangered;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main3{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.Contact{
+    background-image: url("https://demo.creativethemes.com/blocksy/tasty/wp-content/uploads/2021/04/hero-doodles-new.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin-top: 10px;
+    background-color: rgb(207, 191, 186);
+
+}
+.heading{
+    text-align: center;
+    font-size:40px ;
+    position: relative;
+    top: 100px;
+    font-family:'Poppins', sans-serif;
+   
+}
+.para1{
+    text-align: center;
+    /* font-size:40px ; */
+    position: relative;
+    top: 100px;
+    line-height: 3px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.para2{
+    text-align: center;
+    /* font-size:40px ; */
+    position: relative;
+    top: 100px;
+}
+.para3 {
+    text-align: center;
+    /* font-size:40px ; */
+    position: relative;
+    top: 100px;
+}
+.para3 a{
+    text-decoration: none;
+    color: orangered;
+}
+.card{
+    margin-top: 50px;
+    margin-left: 3.5rem;
+    display: flex;
+    gap: 35px;
+}
+.card1{
+    background-color:rgb(248, 247, 245);
+}
+.card2{
+    background-color: rgb(248, 247, 245);
+}
+.card3{
+    background-color: rgb(248, 247, 245);
+}
+
+.image3{
+    display: flex;
+    gap: 10px;
+    margin-top: -2rem;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #9fa1a1;
+}
+ .Aper1{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Aper1 p{
+    font-size: 20px;
+    color: black;
+}
+.Aper1 a{
+text-decoration: none;
+}
+.Aper1 a p:hover{
+    color: orangered;
+}
+.Aper2{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Aper2 p{
+    font-size: 20px;
+    color: black;
+}
+.Aper2 a{
+text-decoration: none;
+}
+.Aper2 a p:hover{
+    color: orangered;
+}
+.Aper3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Aper3 p{
+    font-size: 20px;
+    color: black;
+}
+.Aper3 a{
+text-decoration: none;
+}
+.Aper3 a p:hover{
+    color: orangered;
+}
+.btn5{
+    color: orangered;
+    border: orangered;
+    border-radius: 3px ;
+    background-color:rgb(250, 240, 236);
+}
+.card1 img{
+    border-radius: 6px;
+}
+.card2 img{
+    border-radius: 6px;
+}
+.card3 img{
+    border-radius: 6px;
+}
+.cards{
+    margin-top: 3rem;
+    display: flex;
+    gap: 30px;
+}
+.card4{
+    background-color:rgb(248, 247, 245);
+}
+.card5{
+    background-color: rgb(248, 247, 245);
+}
+.card6{
+    background-color: rgb(248, 247, 245);
+}
+
+.image4{
+    display: flex;
+    gap: 10px;
+    margin-top: -2rem;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #9fa1a1;
+}
+ .Aper4{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Aper4 p{
+    font-size: 20px;
+    color: black;
+}
+.Aper4 a{
+text-decoration: none;
+}
+.Aper4 a p:hover{
+    color: orangered;
+}
+.Aper5{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Aper5 p{
+    font-size: 20px;
+    color: black;
+}
+.Aper5 a{
+text-decoration: none;
+}
+.Aper5 a p:hover{
+    color: orangered;
+}
+.Aper6{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Aper6 p{
+    font-size: 20px;
+    color: black;
+}
+.Aper6 a{
+text-decoration: none;
+}
+.Aper6 a p:hover{
+    color: orangered;
+}
+.btn6{
+    color: orangered;
+    border: orangered;
+    border-radius: 3px ;
+    background-color:rgb(250, 240, 236);
+}
+.card4 img{
+    border-radius: 6px;
+}
+.card5 img{
+    border-radius: 6px;
+}
+.card6 img{
+    border-radius: 6px;
+}
+
+.btn7{
+    margin-left: 46%;
+    padding: 2%;
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 5px;
+    margin-top: 7%;
+}
+.buttons{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 50px;
+    height: 25px;
+    gap: 10px;
+}
+.button1{
+   font-size: 30px; 
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   width: 50px;
+
+}
+.button2{
+    font-size: 15px;
+    height: 35px; 
+    width: 40px;
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.button3{
+    height: 35px; 
+    width: 40px;
+    border-color: white;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button3:hover{
+    color: orangered;
+    border-color: orangered;
+}
+.Next button{
+    position: relative;
+    left:30rem;
+    height: 40px;
+    width: 100px;
+    /* color:aliceblue; */
+    border-color: aliceblue;
+   
+}
+.Next button:hover{
+    /* position: relative;
+    left:30rem;
+    height: 40px;
+    width: 100px; */
+    margin-top: 14rem;
+    color:orangered;
+    border-color: orangered;
+   
+}
+.review{
+    width: 100%;
+    height: 100vh;
+    padding: 70px 0;
+}
+
+.review h1{
+    font-size: 40px;
+    font-family:'Poppins', sans-serif ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.review h1 span{
+    font-size: 40px;
+    margin-left: 15px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.review .review_box{
+    width: 95%;
+    margin: 70px auto;
+    display: flex;
+}
+
+.review .review_box .review_card{
+    width: 350px;
+    height: 500px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    border-radius: 8px;
+    padding: 8px 20px;
+    margin: 0 8px;
+}
+
+.review .review_box .review_card .review_profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: 0.3s;
+}
+.review .review_box .review_card .review_profile img{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    border: 5px solid #cccccc;
+}
+
+.review .review_box .review_card .review_text{
+    text-align: center;
+}
+.review_text h2{
+    font-family: 'Poppins', sans-serif;
+}.review_text p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.review .review_box .review_card .review_text p{
+    text-align: center;
+    line-height: 22px;
+}
+
+.review .review_box .review_card:hover .review_text p{
+    margin-top: 5px;
+}
+.footer{
+    background-color: #0c0f12;
+    
+ }
+ .contain{
+    width: 90%;
+    margin: auto;
+ }
+ .cooks h4{
+    color: white;
+ }
+ .contain1{
+    width: 243px;
+    display: flex;
+    gap: 5px;
+ }
+ .contain1 img{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+ }
+ .contain1 h4{
+    color: white;
+    font-size: 12px;
+ }
+ .cooker{
+    display: flex;
+    gap: 50px;
+ }
+ .header{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.927);
+ }
+ .section{
+    display: flex;
+    gap: 50px;
+ 
+ } 
+ .pecipes{
+    width: 20%;
+    /* border-right: 0.5px solid #687279; */
+ }
+ .pecipes h2{
+ color:#E9EBEC;
+ line-height: 10px;
+ }
+ .pecipes a{
+    /* line-height: 20px; */
+    line-height:30PX;
+    color: #687279;
+    }
+ .pecipes p{
+       /* line-height: 20px; */
+       line-height:23PX;
+       color: #687279;
+  }
+ .pecipes img{
+      margin-top: 20px;
+  }
+  .word{
+    width: 90%;
+    margin: auto;
+  }
+  .word p{
+    color:  #687279;;
+  }
+  .word a{
+    text-decoration: none;
+    color: orangered;
+  }
+ @media only screen and (max-width:768px){
+    .card {
+        margin-top: 50px;
+        margin-left: 3.5rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 35px;
+    }
+    /* .image3 img{
+        width: 40%;
+    } */
+    .card1 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .card2 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .card3 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .card4 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .card5 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .card6 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .btn1{
+        margin-top:10px;
+    }
+    .cards {
+        margin-top: 3rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    .footer {
+        width: 95%;
+        margin-top: 48rem;
+        background-color: #0c0f12;
+    }
+    .Next button {
+        margin-left: -280px;
+        margin-top: 46rem;
+        position: relative;
+        left: 30rem;
+        height: 40px;
+        width: 100px;
+        /* color: aliceblue; */
+        border-color: aliceblue;
+    }
+    .button1 {
+        margin-top: 46rem;
+        font-size: 30px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        width: 50px;
+    }
+    .review .review_box {
+        width: 95%;
+        margin: 70px auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .review .review_box .review_card {
+        width: 282px;
+        height: 500px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+        border-radius: 8px;
+        padding: 8px 20px;
+        margin: 0 8px;  
+        margin-top:20px;  
+    
+ }
+ .review h1 {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image4 h6{
+    margin-top: 50px;
+}
+.review h1 span {
+    font-size: 25px;
+    margin-left: 15px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+h6 {
+    display: block;
+    /* font-size: 0.67em; */
+    font-size: 14px;
+    margin-top: 64px;
+    margin-block-start: 2.33em;
+    margin-block-end: 2.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin-left: -85px;
+}
+.Contact {
+    width: 95%;
+    background-image: url(https://demo.creativethemes.com/blocksy/tasty/wp-content/uploads/2021/04/hero-doodles-new.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin-top: 10px;
+    background-color: rgb(207, 191, 186);
+}
+.para1 {
+    margin-left:23px;
+    width: 80%;
+    text-align: center;
+    /* font-size: 40px; */
+    position: relative;
+    top: 100px;
+    line-height: 23px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card1 {
+    width:96%;
+    margin-left: -24px;
+    background-color: rgb(248, 247, 245);
+}
+.card2 {
+    width: 96%;
+    margin-left: -24px;
+    background-color: rgb(248, 247, 245);
+}
+.card3 {
+    width: 96%;
+    margin-left: -24px;
+    background-color: rgb(248, 247, 245);
+}
+}
+ @media only screen and (max-width:768px) {
+    .cooker {
+        display: none;
+    }
+    .menu ul li {
+        font-size: 10px;
+        /* margin-left: -50px; */
+    }
+    .head4{
+        margin-top: 20px;
+    }
+
+    .image4 img{
+        width:50%;
+    }
+    .image3 img{
+        width:50%;
+    }
+   
+
+    .section {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        /* gap: 50px; */
+    }
+
+    .pecipes h2 {
+        color: #E9EBEC;
+        line-height: 30px;
+    }
+
+    .header {
+
+        margin-top: 30px;
+        background-color: rgba(0, 0, 0, 0.927);
+    }
+
+    .word p {
+        font-size: 10px;
+
+    }
+}
+
+ @media only screen and (max-width:425px){
+    .para1 {
+        text-align: center;
+        /* font-size: 40px; */
+        position: relative;
+        top: 100px;
+        line-height: 26px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .menu ul li {
+        font-size: 10px;
+        margin-left: -50px;
+    }
+    .head4{
+        margin-top: 20px;
+    }
+    .btn1 {
+        margin-top: 18px;
+        /* padding: 8px; */
+        color: white;
+        border-radius: 4px;
+        border: 2px solid orangered;
+        background-color: orangered;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .card6 img {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .image4 img{
+        width:40%;
+    }
+    .image3 img{
+        width:40%;
+    }
+    .review .review_box {
+        width: 95%;
+        margin: 70px auto;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .review .review_box .review_card {
+        width: 305px;
+        height: 500px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+        border-radius: 8px;
+        padding: 8px 20px;
+        margin: 0 8px;
+        margin-top: 23px;  
+        margin-left: 8%;  
+    
+ }
+ .Next button {
+    display: none;
+    margin-left: -250px;
+    margin-top: 45rem;
+    position: relative;
+    left: 20rem;
+    height: 40px;
+    width: 100px;
+    /* color: aliceblue; */
+    border-color: aliceblue;
+}
+h6 {
+    margin-left: -88px;
+
+    display: block;
+    /* font-size: 0.67em; */
+    font-size: 13px;
+    margin-top: 45px;
+}
+ }
+ @media only screen and (max-width:425px) {
+    .cooker {
+        display: none;
+    }
+
+    .footer {
+        margin-top: 464%;
+
+            /* background-color: #0c0f12; */
+            width: fit-content;
+        
+        background-color: #0c0f12;
+    }
+
+    .section {
+        display: grid;
+        grid-template-columns: 1fr;
+        /* gap: 50px; */
+    }
+
+    .pecipes h2 {
+        color: #E9EBEC;
+        line-height: 30px;
+    }
+
+    .header {
+
+        margin-top: 30px;
+        background-color: rgba(0, 0, 0, 0.927);
+    }
+    .button1 {
+        margin-top: 115rem;
+        font-size: 30px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        width: 50px;
+    }
+
+    .word p {
+        font-size: 10px;
+
+    }
+    .cooks h4 {
+        text-align: center;
+        color: white;
+    }
+    .pecipes {
+    margin-left: 40%;
+        width: 20%;
+        /* border-right: 0.5px solid #687279; */
+    }
+    .nav ul li a {
+        font-size: 10px;
+        gap: 1px;
+        padding: 5px;
+        text-decoration: none;
+        color: black;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+}
